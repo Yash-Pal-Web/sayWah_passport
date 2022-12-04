@@ -1,0 +1,20 @@
+.formGroup .input-group-text {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  font-size: 11px;
+  transform: translateY(-50%);
+  right: 4px;
+  padding: 4px 7px;
+  z-index: 9999;
+  cursor: pointer;
+}
+.formGroup {
+  position: relative;
+  width: 100%;
+}
+.googleLogin {
+  background: red;
+  border: red;
+}
+
